@@ -153,6 +153,139 @@ Healthcare workflow analysis.
 Exploration of payment integration, automated notifications, and AI-assisted user guidance.
 
 Consideration of performance, privacy, and security requirements.
+# 📸 MedicoConnect — Screenshots | Captures d'écran
+
+Explore the MedicoConnect interfaces below.  
+Découvrez ci-dessous les interfaces de MedicoConnect.
+
+## 👨‍⚕️ Doctor Space | Espace médecin
+
+### 1. Doctor Dashboard | Tableau de bord du médecin
+
+<p align="center">
+  <img src="screenshots/Dashboard_doctor.PNG" alt="Doctor Dashboard" width="700">
+</p>
+
+### 2. Doctor Appointments | Rendez-vous du médecin
+
+<p align="center">
+  <img src="screenshots/appointments_doctor.PNG" alt="Doctor Appointments" width="700">
+</p>
+
+### 3. Doctor Availability | Disponibilités du médecin
+
+<p align="center">
+  <img src="screenshots/availability_doctor.PNG" alt="Doctor Availability" width="700">
+</p>
+
+### 4. Doctor Time Off | Gestion des absences du médecin
+
+<p align="center">
+  <img src="screenshots/TimeOff_doctor.PNG" alt="Doctor Time Off" width="700">
+</p>
+
+### 5. Consultation Management | Gestion des consultations
+
+<p align="center">
+  <img src="screenshots/consultation_doctor.PNG" alt="Consultation Management" width="700">
+</p>
+
+### 6. Medical Record | Fiche médicale
+
+<p align="center">
+  <img src="screenshots/medical_fiche.PNG" alt="Medical Record" width="700">
+</p>
+
+## 👤 Patient Space | Espace patient
+
+### 7. Patient Dashboard | Tableau de bord du patient
+
+<p align="center">
+  <img src="screenshots/Dashboard_patient.PNG" alt="Patient Dashboard" width="700">
+</p>
+
+### 8. Appointment Booking | Réservation d'un rendez-vous
+
+<p align="center">
+  <img src="screenshots/Booking_patient.PNG" alt="Appointment Booking" width="700">
+</p>
+
+### 9. My Appointments | Mes rendez-vous
+
+<p align="center">
+  <img src="screenshots/My_appointments.PNG" alt="My Appointments" width="700">
+</p>
+
+### 10. Appointment Calendar | Calendrier des rendez-vous
+
+<p align="center">
+  <img src="screenshots/calendar.PNG" alt="Appointment Calendar" width="700">
+</p>
+
+### 11. Online Payment | Paiement en ligne
+
+<p align="center">
+  <img src="screenshots/payment_patient.PNG" alt="Online Payment" width="700">
+</p>
+
+### 12. Notifications | Notifications
+
+<p align="center">
+  <img src="screenshots/Notification.PNG" alt="Notifications" width="700">
+</p>
+
+## 🧑‍💼 Secretary Space | Espace secrétaire
+
+### 13. Secretary Dashboard | Tableau de bord de la secrétaire
+
+<p align="center">
+  <img src="screenshots/Dashboard_secretary.PNG" alt="Secretary Dashboard" width="700">
+</p>
+
+### 14. Appointment Management | Gestion des rendez-vous
+
+<p align="center">
+  <img src="screenshots/appointments_secretary.PNG" alt="Secretary Appointments" width="700">
+</p>
+
+## 🔎 Search & Filtering | Recherche et filtrage
+
+### 15. Doctor Search and Filtering | Recherche et filtrage des médecins
+
+<p align="center">
+  <img src="screenshots/Filtrage.PNG" alt="Doctor Search and Filtering" width="700">
+</p>
+
+## 🤖 AI Chatbot | Chatbot intelligent
+
+### 16. Chatbot Interface | Interface du chatbot
+
+<p align="center">
+  <img src="screenshots/ChatBot.PNG" alt="AI Chatbot" width="700">
+</p>
+
+### 17. Patient Chatbot | Chatbot pour les patients
+
+<p align="center">
+  <img src="screenshots/ChatBot_Patient.PNG" alt="Patient Chatbot" width="700">
+</p>
+
+### 18. Patient Chatbot — Conversation 2 | Conversation 2
+
+<p align="center">
+  <img src="screenshots/ChatBot_Patient2.PNG" alt="Patient Chatbot Conversation 2" width="700">
+</p>
+
+### 19. Patient Chatbot — Conversation 3 | Conversation 3
+
+<p align="center">
+  <img src="screenshots/ChatBot_Patient3.PNG" alt="Patient Chatbot Conversation 3" width="700">
+</p>
+
+---
+
+**Note:** This repository showcases the MedicoConnect academic project. The original source code is no longer available.
+
 
 📂 Source Code Availability
 
